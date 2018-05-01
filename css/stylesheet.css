@@ -42,9 +42,11 @@ h3, h1, h5 {
 @media (max-width: 500px) {
   .hero{display: none;}
   .mobile{display: show;}
+
 }
 
 @media (min-width: 500px) {
   .hero{display: show;}
   .mobile {display: none;}
+
 }
